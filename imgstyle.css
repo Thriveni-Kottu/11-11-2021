@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    color :tomato;
+    padding-top: 30px;
+    
+}
+.p1{
+    width: 400px;
+    border-radius: 15px;
+    margin: 100px ;
+}
+img{
+    margin-left:90%;
+    width: 500px;
+    height: 360px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px ;
+
+}
+button{
+    font-size: 28px;
+    background-color: orangered;
+    color:whitesmoke ;
+    border-radius: 96%;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+    outline: none;
+    cursor: pointer;
+    margin-left: 140%;
+}
